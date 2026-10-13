@@ -1,3 +1,5 @@
+# AI GENERATED SO I DONT CARE
+
 # ofox_device_xiaomi_Mi8953
 
 Device tree **OrangeFox Recovery** (branch `fox_12.1`) untuk device Xiaomi
